@@ -19,3 +19,7 @@ f=1
 while f<=53:
     print(f)
     f+=2
+for i in range(9):
+  if i==3:
+      continue
+  print(i)
