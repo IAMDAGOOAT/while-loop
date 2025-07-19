@@ -7,3 +7,7 @@ i=0
 while i!=len(list):
     print(list[i])
     i+=1
+i=1
+while i<=10:
+    print(i)
+    i+=1
